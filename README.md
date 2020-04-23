@@ -14,6 +14,13 @@ Semantic UI Angular Integrations, written in pure Angular - **no JQuery required
 
 ## Introduction
 
+```bash
+npm install --save-dev @piratuks/tslint-config-code-style
+```
+
+<br />
+https://www.npmjs.com/package/@piratuks/ng-semantic-ui
+
 Angular and jQuery don't go together - this is the fundamental principal of this library. It provides Angular component versions of the Semantic UI modules, so that you don't need to add jQuery to your app.
 
 Note that only Semantic UI elements that use jQuery are recreated here - those written purely in CSS aren't included as they can be used in Angular apps already.
@@ -60,5 +67,6 @@ See the [Documentation](https://github.com/piratuks/ng-semantic-ui/tree/master/d
 ## Credits
 
 Essentially this is forked version of https://github.com/edcarroll/ng2-semantic-ui. Main improvements are:
-  - updated project and project dependencies to be compatible with angular 8
-  - translation module implementation
+
+- updated project and project dependencies to be compatible with angular 8
+- translation module implementation
