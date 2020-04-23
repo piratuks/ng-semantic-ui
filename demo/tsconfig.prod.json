@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "@piratuks/ng-semantic-ui": [
+        "../build/dist"
+      ]
+    }
+  }
+}
