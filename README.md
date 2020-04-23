@@ -24,7 +24,7 @@ See the [Documentation](https://github.com/piratuks/ng-semantic-ui) for installa
 
 ## Dependencies
 
-- [Angular](https://angular.io) (^6.0.0)
+- [Angular](https://angular.io) (^8.0.0)
 - [Semantic UI CSS](http://semantic-ui.com/) (^2.3.1) (jQuery is **not** required)
 
 ## Component Support
