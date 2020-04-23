@@ -1,15 +1,3 @@
-<!-- Logo -->
-<p align="center">
-  <a href="https://github.com/piratuks/ng-semantic-ui">
-    <img height="128" width="238" src="https://raw.githubusercontent.com/piratuks/ng-semantic-ui/master/demo/assets/logo.png">
-  </a>
-</p>
-
-<!-- Name -->
-<h1 align="center">
-  <a href="https://github.com/piratuks/ng-semantic-ui">@piratuks/ng-semantic-ui</a>
-</h1>
-
 Semantic UI Angular Integrations, written in pure Angular - **no JQuery required**.
 
 ## Introduction
