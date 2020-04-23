@@ -3,7 +3,7 @@ Semantic UI Angular Integrations, written in pure Angular - **no JQuery required
 ## Introduction
 
 ```bash
-npm install --save-dev @piratuks/tslint-config-code-style
+npm install --save @piratuks/ng-semantic-ui
 ```
 https://www.npmjs.com/package/@piratuks/ng-semantic-ui 
 <br />
