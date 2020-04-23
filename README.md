@@ -20,7 +20,7 @@ Note that only Semantic UI elements that use jQuery are recreated here - those w
 
 ## Installation & Usage
 
-See the [Documentation](https://github.com/piratuks/ng-semantic-ui) for installation instructions and extensive examples.
+See the [Documentation](https://github.com/piratuks/ng-semantic-ui/tree/master/demo) for installation instructions and extensive examples.
 
 ## Dependencies
 
@@ -56,3 +56,9 @@ See the [Documentation](https://github.com/piratuks/ng-semantic-ui) for installa
 | :ballot_box_with_check: Step      |                                    |                                      | :x: Sticky                    |                                 |
 |                                   |                                    |                                      | :white_check_mark: Tab        |                                 |
 |                                   |                                    |                                      | :white_check_mark: Transition |                                 |
+
+## Credits
+
+Essentially this is forked version of https://github.com/edcarroll/ng2-semantic-ui. Main improvements are:
+  -updated project and project dependencies to be compatible with angular 8
+  -translation module implementation
