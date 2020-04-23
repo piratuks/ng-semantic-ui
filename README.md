@@ -56,4 +56,4 @@ See the [Documentation](https://github.com/piratuks/ng-semantic-ui/tree/master/d
 Essentially this is forked version of https://github.com/edcarroll/ng2-semantic-ui. Main improvements are:
 
 - updated project and project dependencies to be compatible with angular 8
-- translation module implementation
+- translation module implementation changes
