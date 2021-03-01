@@ -104,7 +104,7 @@
     "typescript-tslint-plugin": "^0.5.5",
     "vrsource-tslint-rules": "^5.1.0",
     "zone.js": "~0.9.1",
-    "prismjs": "~1.6.0",
+    "prismjs": "~1.23.0",
     "@angular/animations": "^8.2.14",
     "@angular/forms": "^8.2.14",
     "@angular/language-service": "^8.2.14",
